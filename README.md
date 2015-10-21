@@ -8,3 +8,6 @@ The Big List of Whatever
 
 ### jQuery
 - Use it or not? - http://youmightnotneedjquery.com/
+
+### News
+- What's new? - http://jsfeeds.com/
