@@ -1,5 +1,10 @@
 The Big List of Whatever
 =========================
 
-### JavaScript
+## JavaScript
+
+### Basics
 - Skills Assessment - https://github.com/rmurphey/js-assessment
+
+### jQuery
+- Use it or not? - http://youmightnotneedjquery.com/
