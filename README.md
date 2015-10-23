@@ -12,6 +12,12 @@ The Big List of Whatever
 ### News
 - What's new? - http://jsfeeds.com/
 
+### References
+- Programming Javascript Applications by Eric Elliot - http://chimera.labs.oreilly.com/books/1234000000262/index.html
+
+### Style
+- Google JavaScript style guide - https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
+
 ## Version Control
 
 ### Basics
