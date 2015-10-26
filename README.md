@@ -3,6 +3,9 @@ The Big List of Whatever
 
 ## JavaScript
 
+### Angular
+- Tutorial: Game building - http://www.ng-newsletter.com/posts/building-2048-in-angularjs.html
+
 ### Basics
 - Skills Assessment - https://github.com/rmurphey/js-assessment
 
