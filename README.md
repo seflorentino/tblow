@@ -12,6 +12,7 @@ The Big List of Whatever
 
 ### Basics
 - Skills Assessment - https://github.com/rmurphey/js-assessment
+- ES6 - https://ponyfoo.com/articles/es6
 
 ### jQuery
 - Use it or not? - http://youmightnotneedjquery.com/
