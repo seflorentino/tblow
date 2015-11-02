@@ -14,6 +14,9 @@ The Big List of Whatever
 - Skills Assessment - https://github.com/rmurphey/js-assessment
 - ES6 - https://ponyfoo.com/articles/es6
 
+### Interviewing
+- Sample Questions - https://www.reddit.com/r/webdev/comments/3f7q3q/been_interviewing_with_a_lot_of_tech_startups_as/
+
 ### jQuery
 - Use it or not? - http://youmightnotneedjquery.com/
 
