@@ -26,6 +26,7 @@ The Big List of Whatever
 
 ### References
 - Programming Javascript Applications by Eric Elliot - http://chimera.labs.oreilly.com/books/1234000000262/index.html
+- You Don't Know JS - https://github.com/getify/You-Dont-Know-JS
 
 ### Style
 - Google JavaScript style guide - https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
