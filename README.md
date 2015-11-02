@@ -13,6 +13,7 @@ The Big List of Whatever
 ### Basics
 - Skills Assessment - https://github.com/rmurphey/js-assessment
 - ES6 - https://ponyfoo.com/articles/es6
+- Skills Test: You Can't JavaScript Under Pressure - http://games.usvsth3m.com/javascript-under-pressure/
 
 ### Interviewing
 - Sample Questions - https://www.reddit.com/r/webdev/comments/3f7q3q/been_interviewing_with_a_lot_of_tech_startups_as/
