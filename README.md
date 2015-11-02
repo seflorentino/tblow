@@ -28,6 +28,11 @@ The Big List of Whatever
 - Programming Javascript Applications by Eric Elliot - http://chimera.labs.oreilly.com/books/1234000000262/index.html
 - You Don't Know JS - https://github.com/getify/You-Dont-Know-JS
 
+## Web Design
+
+### Typography
+- Rules for Beginners - https://medium.com/product-design-ux-ui/26-digital-typography-rules-for-beginners-a04c6a5aaff3
+
 ### Style
 - Google JavaScript style guide - https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
 
