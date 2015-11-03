@@ -27,6 +27,7 @@ The Big List of Whatever
 
 ### References
 - Programming Javascript Applications by Eric Elliot - http://chimera.labs.oreilly.com/books/1234000000262/index.html
+- Learning JavaScript Design Patterns by Addy Osmani - http://addyosmani.com/resources/essentialjsdesignpatterns/book/
 - You Don't Know JS - https://github.com/getify/You-Dont-Know-JS
 
 ### REPL
