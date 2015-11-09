@@ -11,6 +11,7 @@ The Big List of Whatever
 - Tutorial: Game building - http://www.ng-newsletter.com/posts/building-2048-in-angularjs.html
 
 ### Basics
+- Creating Object Instances - http://derickbailey.com/2015/11/09/how-does-a-javascript-function-define-a-type-and-create-object-instances/
 - Skills Assessment - https://github.com/rmurphey/js-assessment
 - ES6 - https://ponyfoo.com/articles/es6
 - Skills Test: You Can't JavaScript Under Pressure - http://games.usvsth3m.com/javascript-under-pressure/
