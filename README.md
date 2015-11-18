@@ -34,6 +34,11 @@ The Big List of Whatever
 ### REPL
 - Online REPL - https://repl.it/
 
+## Time
+
+### General
+- Misconceptions about time - http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time
+
 ## Web Design
 
 ### Typography
