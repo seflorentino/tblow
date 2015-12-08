@@ -23,6 +23,9 @@ The Big List of Whatever
 ### jQuery
 - Use it or not? - http://youmightnotneedjquery.com/
 
+### Libraries
+- Laughing Man - https://github.com/Codeusa/LaughingMan.js
+
 ### News
 - What's new? - http://jsfeeds.com/
 
