@@ -16,6 +16,12 @@ The Big List of Whatever
 - ES6 - https://ponyfoo.com/articles/es6
 - Skills Test: You Can't JavaScript Under Pressure - http://games.usvsth3m.com/javascript-under-pressure/
 
+### Blogs
+- Doug Crockford - https://plus.google.com/+DouglasCrockfordEsq
+- John Resig - http://ejohn.org/category/blog/
+- Eric Elliott - https://medium.com/@_ericelliott
+- Vyacheslav Egorov - http://mrale.ph/
+
 ### Interviewing
 - Sample Questions - https://www.reddit.com/r/webdev/comments/3f7q3q/been_interviewing_with_a_lot_of_tech_startups_as/
 - More Questions - https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once/
