@@ -20,6 +20,7 @@ The Big List of Whatever
 - Doug Crockford - https://plus.google.com/+DouglasCrockfordEsq
 - John Resig - http://ejohn.org/category/blog/
 - Eric Elliott - https://medium.com/@_ericelliott
+- Netflix - http://techblog.netflix.com/
 - Vyacheslav Egorov - http://mrale.ph/
 
 ### Interviewing
