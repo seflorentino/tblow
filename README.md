@@ -56,6 +56,9 @@ The Big List of Whatever
 
 ## Web Design
 
+### Loading
+- Blur Up Technique - https://css-tricks.com/the-blur-up-technique-for-loading-background-images/
+
 ### Typography
 - Rules for Beginners - https://medium.com/product-design-ux-ui/26-digital-typography-rules-for-beginners-a04c6a5aaff3
 
