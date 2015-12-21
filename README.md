@@ -15,6 +15,7 @@ The Big List of Whatever
 - Skills Assessment - https://github.com/rmurphey/js-assessment
 - ES6 - https://ponyfoo.com/articles/es6
 - Skills Test: You Can't JavaScript Under Pressure - http://games.usvsth3m.com/javascript-under-pressure/
+- Quirks - http://wtfjs.com/
 
 ### Blogs
 - Doug Crockford - https://plus.google.com/+DouglasCrockfordEsq
