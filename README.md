@@ -16,6 +16,7 @@ The Big List of Whatever
 - ES6 - https://ponyfoo.com/articles/es6
 - Skills Test: You Can't JavaScript Under Pressure - http://games.usvsth3m.com/javascript-under-pressure/
 - Quirks - http://wtfjs.com/
+- Plain JavaScript - https://plainjs.com/javascript/
 
 ### Blogs
 - Doug Crockford - https://plus.google.com/+DouglasCrockfordEsq
