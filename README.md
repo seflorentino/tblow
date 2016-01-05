@@ -38,6 +38,9 @@ The Big List of Whatever
 ### News
 - What's new? - http://jsfeeds.com/
 
+### Opinions
+- Angular 2 vs React - https://medium.com/@housecor/angular-2-versus-react-there-will-be-blood-66595faafd51
+
 ### References
 - Programming Javascript Applications by Eric Elliot - http://chimera.labs.oreilly.com/books/1234000000262/index.html
 - Learning JavaScript Design Patterns by Addy Osmani - http://addyosmani.com/resources/essentialjsdesignpatterns/book/
