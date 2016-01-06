@@ -38,6 +38,9 @@ The Big List of Whatever
 ### News
 - What's new? - http://jsfeeds.com/
 
+### Node.js
+- Become a better Node.js developer - https://blog.risingstack.com/how-to-become-a-better-node-js-developer-in-2016/
+
 ### Opinions
 - Angular 2 vs React - https://medium.com/@housecor/angular-2-versus-react-there-will-be-blood-66595faafd51
 
