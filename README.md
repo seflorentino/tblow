@@ -57,6 +57,11 @@ The Big List of Whatever
 ### SSL
 - Free 90-day cert from Mozilla - https://letsencrypt.org/
 
+## Software Development
+
+### Methodology
+- Flaws in Scrum and Agile - https://www.pandastrike.com/posts/20150304-agile
+
 ## Time
 
 ### General
