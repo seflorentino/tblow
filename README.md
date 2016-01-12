@@ -44,6 +44,10 @@ The Big List of Whatever
 ### Opinions
 - Angular 2 vs React - https://medium.com/@housecor/angular-2-versus-react-there-will-be-blood-66595faafd51
 
+### React
+- Getting started with React - https://hashnode.com/post/what-are-the-best-ways-resources-to-get-started-with-learning-react-js-if-coming-from-an-angular-js-background-ciijz3gjn01mox2531znry2zn
+- MERN Stack - https://hashnode.com/post/react-tutorial-using-mern-stack-ciiyus9m700qqge53mer0isxz
+
 ### References
 - Programming Javascript Applications by Eric Elliot - http://chimera.labs.oreilly.com/books/1234000000262/index.html
 - Learning JavaScript Design Patterns by Addy Osmani - http://addyosmani.com/resources/essentialjsdesignpatterns/book/
