@@ -56,6 +56,10 @@ The Big List of Whatever
 ### REPL
 - Online REPL - https://repl.it/
 
+### Style
+- Google JavaScript style guide - https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
+- Airbnb JavaScript Style Guide - https://github.com/airbnb/javascript
+
 ## Security
 
 ### SSL
@@ -78,9 +82,6 @@ The Big List of Whatever
 
 ### Typography
 - Rules for Beginners - https://medium.com/product-design-ux-ui/26-digital-typography-rules-for-beginners-a04c6a5aaff3
-
-### Style
-- Google JavaScript style guide - https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
 
 ## Version Control
 
