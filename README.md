@@ -78,6 +78,9 @@ The Big List of Whatever
 
 ## Web Design
 
+### Devices
+- Google Device Metrics - https://design.google.com/devices/
+
 ### Loading
 - Blur Up Technique - https://css-tricks.com/the-blur-up-technique-for-loading-background-images/
 
