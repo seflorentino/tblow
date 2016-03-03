@@ -71,9 +71,6 @@ The Big List of Whatever
 ### Methodology
 - Flaws in Scrum and Agile - https://www.pandastrike.com/posts/20150304-agile
 
-## Stack
-- CLEAN - http://heidloff.net/article/introducing-clean-stack-javascript-everywhere
-
 ## Time
 
 ### General
