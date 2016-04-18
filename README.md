@@ -75,6 +75,7 @@ The Big List of Whatever
 
 ### General
 - Misconceptions about time - http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time
+- Designing at Facebook - https://developers.facebook.com/videos/f8-2016/designing-at-facebook
 
 ## Web Design
 
