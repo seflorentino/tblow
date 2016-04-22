@@ -61,6 +61,9 @@ The Big List of Whatever
 - Google JavaScript style guide - https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
 - Airbnb JavaScript Style Guide - https://github.com/airbnb/javascript
 
+### Webpack
+- Webpack-the confusing parts - https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9
+
 ## Security
 
 ### SSL
