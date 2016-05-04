@@ -66,6 +66,9 @@ The Big List of Whatever
 
 ## Security
 
+### Password Management
+- 1Password - https://1password.com/
+
 ### SSL
 - Free 90-day cert from Mozilla - https://letsencrypt.org/
 
