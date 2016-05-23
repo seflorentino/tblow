@@ -99,3 +99,6 @@ The Big List of Whatever
 ### Basics
 - How to write good commit messages - http://chris.beams.io/posts/git-commit/
 - Commit often - http://spin.atomicobject.com/2015/11/11/all-the-commits/
+
+### Git
+- Merge different repositories - http://stackoverflow.com/questions/2949738/git-merge-different-repositories
