@@ -6,6 +6,11 @@ The Big List of Whatever
 - Medium.com stack - https://medium.com/medium-eng/the-stack-that-helped-medium-drive-2-6-millennia-of-reading-time-e56801f7c492
 - Hubspot.com stack - http://product.hubspot.com/blog/modern-java-at-hubspot
 
+## Java
+
+### Application Server
+- Embedded Tomcat - https://devcenter.heroku.com/articles/create-a-java-web-application-using-embedded-tomcat
+
 ## JavaScript
 
 ### Angular
