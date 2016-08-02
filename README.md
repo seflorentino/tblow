@@ -11,6 +11,9 @@ The Big List of Whatever
 ### Application Server
 - Embedded Tomcat - https://devcenter.heroku.com/articles/create-a-java-web-application-using-embedded-tomcat
 
+### Tips
+- IntelliJ & Java 8 - https://blog.jetbrains.com/idea/2016/07/java-8-top-tips
+
 ## JavaScript
 
 ### Angular
