@@ -82,6 +82,9 @@ The Big List of Whatever
 
 ## Software Development
 
+## Books
+- Free O'Reilly E-books - http://www.oreilly.com/programming/free/
+
 ### Methodology
 - Flaws in Scrum and Agile - https://www.pandastrike.com/posts/20150304-agile
 
