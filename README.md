@@ -72,6 +72,11 @@ The Big List of Whatever
 ### Webpack
 - Webpack-the confusing parts - https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9
 
+## Python
+
+### Docs
+- User-friendly docs - http://devdocs.io/python/
+
 ## Security
 
 ### Password Management
