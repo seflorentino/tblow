@@ -2,6 +2,9 @@ The Big List of Whatever
 =========================
 ## Architecture
 
+### General
+- Hexagonal Architecture - http://tidyjava.com/hexagonal-architecture-powerful/
+
 ### In Action
 - Medium.com stack - https://medium.com/medium-eng/the-stack-that-helped-medium-drive-2-6-millennia-of-reading-time-e56801f7c492
 - Hubspot.com stack - http://product.hubspot.com/blog/modern-java-at-hubspot
