@@ -4,6 +4,7 @@ The Big List of Whatever
 
 ### General
 - Hexagonal Architecture - http://tidyjava.com/hexagonal-architecture-powerful/
+- Reactive Systems - http://www.reactivemanifesto.org/
 
 ### In Action
 - Medium.com stack - https://medium.com/medium-eng/the-stack-that-helped-medium-drive-2-6-millennia-of-reading-time-e56801f7c492
@@ -13,6 +14,9 @@ The Big List of Whatever
 
 ### Application Server
 - Embedded Tomcat - https://devcenter.heroku.com/articles/create-a-java-web-application-using-embedded-tomcat
+
+### General
+- InterruptedException - http://www.ibm.com/developerworks/java/library/j-jtp05236/index.html
 
 ### Tips
 - IntelliJ & Java 8 - https://blog.jetbrains.com/idea/2016/07/java-8-top-tips
