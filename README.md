@@ -100,6 +100,11 @@ The Big List of Whatever
 ### Methodology
 - Flaws in Scrum and Agile - https://www.pandastrike.com/posts/20150304-agile
 
+## SQL
+
+### SQL Server
+- Find enforced dependencies - http://stackoverflow.com/a/40888667
+
 ## Time
 
 ### General
