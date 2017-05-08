@@ -5,6 +5,7 @@ The Big List of Whatever
 ### General
 - Hexagonal Architecture - http://tidyjava.com/hexagonal-architecture-powerful/
 - Reactive Systems - http://www.reactivemanifesto.org/
+- Backpressure - https://mechanical-sympathy.blogspot.com/2012/05/apply-back-pressure-when-overloaded.html
 
 ### In Action
 - Medium.com stack - https://medium.com/medium-eng/the-stack-that-helped-medium-drive-2-6-millennia-of-reading-time-e56801f7c492
