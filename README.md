@@ -106,6 +106,11 @@ The Big List of Whatever
 ### SQL Server
 - Find enforced dependencies - http://stackoverflow.com/a/40888667
 
+## Theory
+
+### Queueing
+- Little's Law - https://en.wikipedia.org/wiki/Little%27s_law
+
 ## Time
 
 ### General
