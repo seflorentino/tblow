@@ -87,6 +87,9 @@ The Big List of Whatever
 
 ## Security
 
+### OAuth2
+- Basics - https://alexbilbie.com/guide-to-oauth-2-grants/
+
 ### Password Management
 - 1Password - https://1password.com/
 
