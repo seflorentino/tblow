@@ -80,6 +80,11 @@ The Big List of Whatever
 ### Webpack
 - Webpack-the confusing parts - https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9
 
+## Kotlin
+
+### General
+- Benchmarks for common idioms - https://sites.google.com/a/athaydes.com/renato-athaydes/posts/kotlinshiddencosts-benchmarks
+
 ## Python
 
 ### Docs
