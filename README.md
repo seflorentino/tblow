@@ -84,6 +84,7 @@ The Big List of Whatever
 
 ### General
 - Benchmarks for common idioms - https://sites.google.com/a/athaydes.com/renato-athaydes/posts/kotlinshiddencosts-benchmarks
+- Clean Code and Kotlin - https://blog.philipphauer.de/clean-code-kotlin/
 
 ## Python
 
