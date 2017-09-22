@@ -95,6 +95,7 @@ The Big List of Whatever
 
 ### OAuth2
 - Basics - https://alexbilbie.com/guide-to-oauth-2-grants/
+- Google Implementation for Client-side Web Applications - https://developers.google.com/identity/protocols/OAuth2UserAgent
 
 ### Password Management
 - 1Password - https://1password.com/
