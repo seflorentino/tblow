@@ -105,11 +105,17 @@ The Big List of Whatever
 
 ## Software Development
 
-## Books
+### Books
 - Free O'Reilly E-books - http://www.oreilly.com/programming/free/
 
 ### Methodology
 - Flaws in Scrum and Agile - https://www.pandastrike.com/posts/20150304-agile
+
+### Wars
+
+#### Static Typing vs Dynamic Typing
+- Static Types Good - https://blog.acolyer.org/2017/09/19/to-type-or-not-to-type-quantifying-detectable-bugs-in-javascript/
+- Static Types are Overrated - https://medium.com/javascript-scene/the-shocking-secret-about-static-types-514d39bf30a3
 
 ## SQL
 
