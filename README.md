@@ -22,7 +22,7 @@ The Big List of Whatever
 ### Tips
 - IntelliJ & Java 8 - https://blog.jetbrains.com/idea/2016/07/java-8-top-tips
 
-## JavaScript
+## JavaScript / UI
 
 ### Angular
 - Tutorial: Game building - http://www.ng-newsletter.com/posts/building-2048-in-angularjs.html
@@ -41,6 +41,9 @@ The Big List of Whatever
 - Eric Elliott - https://medium.com/@_ericelliott
 - Netflix - http://techblog.netflix.com/
 - Vyacheslav Egorov - http://mrale.ph/
+
+### HTML
+- HEAD - https://github.com/joshbuchea/HEAD
 
 ### Interviewing
 - Sample Questions - https://www.reddit.com/r/webdev/comments/3f7q3q/been_interviewing_with_a_lot_of_tech_startups_as/
