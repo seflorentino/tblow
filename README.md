@@ -22,6 +22,9 @@ The Big List of Whatever
 ### Tips
 - IntelliJ & Java 8 - https://blog.jetbrains.com/idea/2016/07/java-8-top-tips
 
+### Tools
+- Online thread dump analyzer - http://fastthread.io
+
 ## JavaScript / UI
 
 ### Angular
