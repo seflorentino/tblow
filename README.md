@@ -17,6 +17,7 @@ The Big List of Whatever
 - Embedded Tomcat - https://devcenter.heroku.com/articles/create-a-java-web-application-using-embedded-tomcat
 
 ### General
+- Checked vs Unchecked Exceptions - https://www.ibm.com/developerworks/library/j-jtp05254/index.html
 - InterruptedException - http://www.ibm.com/developerworks/java/library/j-jtp05236/index.html
 
 ### Tips
