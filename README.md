@@ -10,6 +10,7 @@ The Big List of Whatever
 ### In Action
 - Medium.com stack - https://medium.com/medium-eng/the-stack-that-helped-medium-drive-2-6-millennia-of-reading-time-e56801f7c492
 - Hubspot.com stack - http://product.hubspot.com/blog/modern-java-at-hubspot
+- Architecture of Giants - https://blog.keen.io/architecture-of-giants-data-stacks-at-facebook-netflix-airbnb-and-pinterest-9b7cd881af54?s=m3
 
 ## Java
 
