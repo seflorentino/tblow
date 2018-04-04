@@ -99,6 +99,12 @@ The Big List of Whatever
 - Clean Code and Kotlin - https://blog.philipphauer.de/clean-code-kotlin/
 - try-with-resources - http://www.baeldung.com/kotlin-try-with-resources
 
+## Linux
+
+### Samba
+- Mount Windows Share in Linux - https://www.thomas-krenn.com/en/wiki/Mounting_a_Windows_Share_in_Linux
+- Prevent Samba Disconnects - https://unix.stackexchange.com/a/367885
+
 ## Python
 
 ### Docs
