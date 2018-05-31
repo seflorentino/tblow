@@ -21,6 +21,9 @@ The Big List of Whatever
 - Checked vs Unchecked Exceptions - https://www.ibm.com/developerworks/library/j-jtp05254/index.html
 - InterruptedException - http://www.ibm.com/developerworks/java/library/j-jtp05236/index.html
 
+### Interviewing
+- 130+ Java Interview Questions - https://javarevisited.blogspot.com/2015/10/133-java-interview-questions-answers-from-last-5-years.html
+
 ### Tips
 - IntelliJ & Java 8 - https://blog.jetbrains.com/idea/2016/07/java-8-top-tips
 
