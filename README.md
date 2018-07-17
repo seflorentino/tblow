@@ -12,6 +12,10 @@ The Big List of Whatever
 - Hubspot.com stack - http://product.hubspot.com/blog/modern-java-at-hubspot
 - Architecture of Giants - https://blog.keen.io/architecture-of-giants-data-stacks-at-facebook-netflix-airbnb-and-pinterest-9b7cd881af54?s=m3
 
+## Assembly Language
+
+Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
+
 ## Java
 
 ### Application Server
