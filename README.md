@@ -140,6 +140,9 @@ Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 ### Methodology
 - Flaws in Scrum and Agile - https://www.pandastrike.com/posts/20150304-agile
 
+### Style Guide
+- HOWTO Write Unmaintainable Code - https://github.com/Droogans/unmaintainable-code
+
 ### Wars
 
 #### Static Typing vs Dynamic Typing
