@@ -19,6 +19,11 @@ The Big List of Whatever
 
 Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 
+## Amazon Web Services (AWS)
+
+### Cognito
+- Change Account Status in User Pool - https://stackoverflow.com/a/49277469
+
 ## Java
 
 ### Application Server
