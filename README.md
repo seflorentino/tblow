@@ -162,6 +162,9 @@ Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 ### SQL Server
 - Find enforced dependencies - http://stackoverflow.com/a/40888667
 
+## Testing
+- Test-induced Design Damage - https://dhh.dk/2014/test-induced-design-damage.html
+
 ## Theory
 
 ### Queueing
