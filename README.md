@@ -197,3 +197,6 @@ Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 - Merge different repositories - http://stackoverflow.com/questions/2949738/git-merge-different-repositories
 - Pretty log graph - https://stackoverflow.com/a/9074343
 - Reset password on Windows - https://stackoverflow.com/a/27001816
+
+## Useful
+- Epoch Converter - https://www.epochconverter.com/
