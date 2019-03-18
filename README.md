@@ -199,4 +199,5 @@ Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 - Reset password on Windows - https://stackoverflow.com/a/27001816
 
 ## Useful
+- Base64 Decode - https://www.base64decode.org/
 - Epoch Converter - https://www.epochconverter.com/
