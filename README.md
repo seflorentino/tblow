@@ -62,6 +62,9 @@ Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 - Netflix - http://techblog.netflix.com/
 - Vyacheslav Egorov - http://mrale.ph/
 
+### GraphQL
+- Dump Schema - https://stackoverflow.com/a/42010467
+
 ### HTML
 - HEAD - https://github.com/joshbuchea/HEAD
 
