@@ -204,3 +204,4 @@ Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 ## Useful
 - Base64 Decode - https://www.base64decode.org/
 - Epoch Converter - https://www.epochconverter.com/
+- Curated list of design tools - https://github.com/LisaDziuba/Awesome-Design-Tools
