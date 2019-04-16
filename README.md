@@ -24,6 +24,9 @@ Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 ### Cognito
 - Change Account Status in User Pool - https://stackoverflow.com/a/49277469
 
+### KMS
+- Call KMS decrypt without a binary file - https://stackoverflow.com/a/50833258
+
 ## Java
 
 ### Application Server
