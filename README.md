@@ -182,6 +182,10 @@ Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 - Misconceptions about time - http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time
 - Designing at Facebook - https://developers.facebook.com/videos/f8-2016/designing-at-facebook
 
+## User Engagement
+- 5 User Engagement Metrics - https://blog.popcornmetrics.com/5-user-engagement-metrics-for-growth/
+
+
 ## Web Design
 
 ### Devices
