@@ -201,6 +201,7 @@ Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 
 ### Basics
 - How to write good commit messages - http://chris.beams.io/posts/git-commit/
+- How to write the perfect pull request - https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/
 - Commit often - http://spin.atomicobject.com/2015/11/11/all-the-commits/
 
 ### Git
