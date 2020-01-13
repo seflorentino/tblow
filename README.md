@@ -128,6 +128,7 @@ Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 
 
 ## Podcasts
+- Podcast for Professional Software Developers - https://www.se-radio.net/
 - The best technology podcast episodes - https://podnami.com/
 
 ## Python
