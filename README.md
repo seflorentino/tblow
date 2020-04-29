@@ -150,6 +150,7 @@ Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 
 ### SSL
 - Free 90-day cert from Mozilla - https://letsencrypt.org/
+- Verify SSL cert expiration - https://stackoverflow.com/questions/21297853/how-to-determine-ssl-cert-expiration-date-from-a-pem-encoded-certificate
 
 ## Software Development
 
