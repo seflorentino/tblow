@@ -122,6 +122,8 @@ Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 
 ## Linux
 
+- journalctl - https://www.loggly.com/ultimate-guide/using-journalctl/
+
 ### Samba
 - Mount Windows Share in Linux - https://www.thomas-krenn.com/en/wiki/Mounting_a_Windows_Share_in_Linux
 - Prevent Samba Disconnects - https://unix.stackexchange.com/a/367885
