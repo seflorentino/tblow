@@ -135,6 +135,9 @@ Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 
 ## Python
 
+### Dependency Management
+- Overview - https://modelpredict.com/python-dependency-management-tools
+
 ### Docs
 - User-friendly docs - http://devdocs.io/python/
 
