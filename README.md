@@ -122,6 +122,8 @@ Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 
 ## Linux
 
+# systemd
+- restart config for slow starting units - https://unix.stackexchange.com/questions/289629/systemd-restart-always-is-not-honored
 - journalctl - https://www.loggly.com/ultimate-guide/using-journalctl/
 
 ### Samba
