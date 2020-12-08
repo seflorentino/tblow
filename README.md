@@ -114,7 +114,7 @@ Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 
 ## Keyboards
 
-### Dvorak Typing Tutorial - http://programmer-dvorak.appspot.com/
+- Dvorak Typing Tutorial - http://programmer-dvorak.appspot.com/
 
 ## Kotlin
 
