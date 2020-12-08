@@ -75,6 +75,9 @@ Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 - Sample Questions - https://www.reddit.com/r/webdev/comments/3f7q3q/been_interviewing_with_a_lot_of_tech_startups_as/
 - More Questions - https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once/
 
+### JavaScript
+- The Modern JavaScript Tutorial - https://javascript.info/ 
+
 ### jQuery
 - Use it or not? - http://youmightnotneedjquery.com/
 
