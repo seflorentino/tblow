@@ -140,6 +140,9 @@ Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 
 ## Python
 
+### Books
+- Free Books - https://www.pythonkitchen.com/legally-free-python-books-list/
+
 ### Dependency Management
 - Overview - https://modelpredict.com/python-dependency-management-tools
 
