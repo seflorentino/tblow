@@ -27,6 +27,11 @@ Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 ### KMS
 - Call KMS decrypt without a binary file - https://stackoverflow.com/a/50833258
 
+## Books
+
+### Computer Science
+- Online Textbooks - https://csgordon.github.io/books.html
+
 ## Java
 
 ### Application Server
