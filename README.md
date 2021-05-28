@@ -189,6 +189,9 @@ Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 
 ## SQL
 
+### Postgres
+- PostgreSQL EXPLAIN Output Explained - https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/
+
 ### SQL Server
 - Find enforced dependencies - http://stackoverflow.com/a/40888667
 
