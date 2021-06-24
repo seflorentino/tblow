@@ -32,6 +32,9 @@ Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 ### Computer Science
 - Online Textbooks - https://csgordon.github.io/books.html
 
+## Interviewing
+- Preparing for the Systems Design and Coding Interview - https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/
+
 ## Java
 
 ### Application Server
