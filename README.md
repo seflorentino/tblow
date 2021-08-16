@@ -27,6 +27,14 @@ Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 ### KMS
 - Call KMS decrypt without a binary file - https://stackoverflow.com/a/50833258
 
+## Blogs
+- Doug Crockford - https://plus.google.com/+DouglasCrockfordEsq
+- John Resig - http://ejohn.org/category/blog/
+- Eric Elliott - https://medium.com/@_ericelliott
+- Netflix - http://techblog.netflix.com/
+- Vyacheslav Egorov - http://mrale.ph/
+- Dr. Brian Robert Callahan - https://briancallahan.net/
+
 ## Books
 
 ### Computer Science
@@ -65,13 +73,6 @@ Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 - Skills Test: You Can't JavaScript Under Pressure - http://games.usvsth3m.com/javascript-under-pressure/
 - Quirks - http://wtfjs.com/
 - Plain JavaScript - https://plainjs.com/javascript/
-
-### Blogs
-- Doug Crockford - https://plus.google.com/+DouglasCrockfordEsq
-- John Resig - http://ejohn.org/category/blog/
-- Eric Elliott - https://medium.com/@_ericelliott
-- Netflix - http://techblog.netflix.com/
-- Vyacheslav Egorov - http://mrale.ph/
 
 ### GraphQL
 - Dump Schema - https://stackoverflow.com/a/42010467
