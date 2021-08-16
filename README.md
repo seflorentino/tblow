@@ -28,7 +28,7 @@ Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 - Call KMS decrypt without a binary file - https://stackoverflow.com/a/50833258
 
 ## Blogs
-- Doug Crockford - https://plus.google.com/+DouglasCrockfordEsq
+- ~~Doug Crockford - https://plus.google.com/+DouglasCrockfordEsq~~
 - John Resig - http://ejohn.org/category/blog/
 - Eric Elliott - https://medium.com/@_ericelliott
 - Netflix - http://techblog.netflix.com/
