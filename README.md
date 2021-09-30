@@ -42,6 +42,7 @@ Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 
 ## Interviewing
 - Preparing for the Systems Design and Coding Interview - https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/
+- Salary Negotiation - https://www.kalzumeus.com/2012/01/23/salary-negotiation/
 
 ## Java
 
