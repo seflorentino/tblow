@@ -159,6 +159,9 @@ Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 ### Docs
 - User-friendly docs - http://devdocs.io/python/
 
+### General
+- Synchorinization - http://www.laurentluce.com/posts/python-threads-synchronization-locks-rlocks-semaphores-conditions-events-and-queues/
+
 ## Security
 
 ### General
