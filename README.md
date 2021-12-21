@@ -167,6 +167,9 @@ Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 ### General
 - Subject vs Principal - https://stackoverflow.com/questions/4989063/what-is-the-meaning-and-difference-between-subject-user-and-principal
 
+### Global Interpreter Lock
+- Inside the Python GIL (Video) - https://www.youtube.com/watch?v=ph374fJqFPE
+
 ### OAuth2
 - Basics - https://alexbilbie.com/guide-to-oauth-2-grants/
 - Google Implementation for Client-side Web Applications - https://developers.google.com/identity/protocols/OAuth2UserAgent
