@@ -160,6 +160,7 @@ Assembly Language for Beginners - https://yurichev.com/writings/AL4B-EN.pdf
 - User-friendly docs - http://devdocs.io/python/
 
 ### General
+- Dunder Methods - https://www.pythonmorsels.com/every-dunder-method/
 - Synchorinization - http://www.laurentluce.com/posts/python-threads-synchronization-locks-rlocks-semaphores-conditions-events-and-queues/
 
 ## Security
